@@ -37,13 +37,6 @@ def _radix(counter1, list_val, index):
     
     return out
 
-    
-    
-    
-
-
-
-
 def ragix(list_val):
     # makes counter list
     counter = []
@@ -68,7 +61,7 @@ def ragix(list_val):
     return list_val 
 
 
-    
+ 
 print(ragix([11111, 12, 43, 4, 25]))
 
         
