@@ -59,10 +59,3 @@ def ragix(list_val):
         list_val[i] = int(list_val[i])
     
     return list_val 
-
-
- 
-print(ragix([11111, 12, 43, 4, 25]))
-
-        
-    
